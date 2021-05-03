@@ -15,3 +15,4 @@ In order to add this extension:
 # Behind the scenes
 Each second, the extension checks for all the sections that have `Suggested For You` text. If it find any, it deletes the entire element.
 **NOTE** This does **NOT** send the details to Facebook; it just deletes the sections from your display.
+**NOTE** This is **NOT** completely tested.
