@@ -1,4 +1,4 @@
-# remove-facebook-suggestions-ads
+# cleanbook
 Removes
 - the annoying "Suggested For You" Facebook posts
 - sponsored content
