@@ -1,6 +1,6 @@
 {
-  "name": "Facecrook",
-  "description": "Facecrook",
+  "name": "cleanbook",
+  "description": "Cleans up Facebook page by removing unwanted posts/ads.",
   "version": "0.0.1",
   "permissions": [
     "activeTab",
