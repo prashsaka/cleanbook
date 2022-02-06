@@ -3,11 +3,11 @@ Removes
 - the annoying "Suggested For You" Facebook posts
 - sponsored content
 
-# Install from extension store
-- https://chrome.google.com/webstore/detail/cleanbook/onpenpogbepamnaobmbbjiehbcmheccd
-
 # This is a browser extension for Google Chrome and MS Edge.
-In order to add this extension:
+- Chrome - https://chrome.google.com/webstore/detail/cleanbook/onpenpogbepamnaobmbbjiehbcmheccd
+- MS Edge - https://microsoftedge.microsoft.com/addons/detail/clean-book/hanfmjkkjiepplgjpmhacneimimdehnc
+
+# Install from code
 - create a directory called `cleanbook` in your local drive
 - download the two files `content-script.js` and `manifest.json` to the directory
 - click on the setting (three vertical dots) icon in the top right corner
