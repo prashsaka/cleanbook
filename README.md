@@ -3,6 +3,9 @@ Removes
 - the annoying "Suggested For You" Facebook posts
 - sponsored content
 
+# Install from extension store
+- https://chrome.google.com/webstore/detail/cleanbook/onpenpogbepamnaobmbbjiehbcmheccd
+
 # This is a browser extension for Google Chrome and MS Edge.
 In order to add this extension:
 - create a directory called `cleanbook` in your local drive
